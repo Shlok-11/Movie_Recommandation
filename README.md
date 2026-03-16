@@ -19,12 +19,3 @@ This project uses a dataset of 10,000 movies. It processes movie overviews and g
 * `movies_list.pkl`: A serialized dataframe containing the processed movie data.
 * `similarity.pkl`: A serialized matrix containing the calculated cosine similarity scores between all movies.
 
-## 🚀 How to Use
-
-### 1. Run it locally
-To run this project on your local machine, follow these steps:
-
-**Clone the repository:**
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
